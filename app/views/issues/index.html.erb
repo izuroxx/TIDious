@@ -1,0 +1,9 @@
+<h1>TIDious</h1>
+
+<% @issues.each do |issue| %>
+	<div class="issue wrapper">
+		<h2 class="title"><%= issue.issue %></h2>
+		<p class="timespan"><%= issue.timespan %> </p>
+		<p class="temperature"><%= issue.temperature %> </p>
+	</div>
+<% end %>

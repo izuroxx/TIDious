@@ -5,6 +5,19 @@ background: -webkit-linear-gradient(to left, #003973 , #E5E5BE); /* Chrome 10-25
 background: linear-gradient(to left, #003973 , #E5E5BE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         
 }
+
+h1 {
+	color: white;
+} 
+
+
+
+
+
+
+
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
